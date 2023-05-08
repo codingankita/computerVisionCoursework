@@ -1,2 +1,0 @@
-# computerVisionCoursework
-Vehicle - ReIdentification
